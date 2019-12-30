@@ -15,6 +15,7 @@ data extracted on 2019-11-11
 
 - Subset extracted:
 all the KPIs concerning EU 27, where available 2000-2018
+the data about United Kingdom have been extracted but, following the announce of the confirmation of Brexit due on 2020-01-31, removed
 
 # contents
 
@@ -27,3 +28,5 @@ This repository contains "dimension tables", i.e. descriptions and additional in
 2. sdgeu_dimension_goals.csv: UN SDG goal number and its description as per 
 3. sdgeu_dimension_series.csv
 4. sdgeu_dimension_time.csv
+
+Additionally, the repository contains a CSV with a summary of the number of datapoints available for each combination of Goal, SeriesCode (i.e. KPI), TimePeriod (i.e. Year) within the datamart used for the sample dashboard: sdgeu_dataavailable.csv
