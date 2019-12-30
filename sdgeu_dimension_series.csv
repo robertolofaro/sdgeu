@@ -1,0 +1,8 @@
+SeriesCode,SeriesDescription,Units,Direction
+EN_ATM_CO2GDP,Carbon dioxide emissions per unit of GDP (kilogrammes of CO2 per constant 2010 United States dollars),KG_PER_CON_USD,lower
+EN_ATM_CO2MVA,Carbon dioxide emissions per unit of manufacturing value added (kilogrammes of CO2 per constant 2010 United States dollars),KG_PER_CON_USD,lower
+GB_XPD_RSDV,Research and development expenditure as a proportion of GDP (%),PERCENT,higher
+IT_USE_ii99,Internet users per 100 inhabitants,PER_100_POP,higher
+NV_IND_MANF,Manufacturing value added as a proportion of GDP (%),PERCENT,higher
+NV_IND_SSIS,Proportion of small-scale industries in total industry value added (%),PERCENT,higher
+NV_IND_TECH,Proportion of medium and high-tech industry value added in total value added (%),PERCENT,higher
